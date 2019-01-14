@@ -4,10 +4,10 @@ title: The first Berlin robotics meetup hosted at Amazon
 user: Johannes
 ---
 
-The first meetup will take place at the 29th January 2019. Since everybody will
-be new please prepare a (max!) 5 min introduction of yourself (or your group).
-We encourage everybody to bring robots (as long as they fit in a normal meeting
-room).
+The first meetup will take place at the 29th January 2019, 7 p.pm . Since
+everybody will be new please prepare a (max!) 5 min introduction of yourself (or
+your group).  We encourage everybody to bring robots (as long as they fit in a
+normal meeting room).
 
 The meetup will be hosted by Johannes and Sebastian from Amazon Robotics AI in
 Krausenstr. 38, 10117 Berlin. Amazon will sponsor drinks and food this time. You
