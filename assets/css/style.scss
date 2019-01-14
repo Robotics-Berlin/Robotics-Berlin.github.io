@@ -4,5 +4,9 @@
 @import "{{ site.theme }}";
 
 .page-header {
-  background-image: "/assets/images/header.jpg";
+  background-image: url("/assets/images/header.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #111111;
 }
