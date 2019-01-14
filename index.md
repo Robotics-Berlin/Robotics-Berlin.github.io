@@ -9,4 +9,14 @@ What this is not:
 * a forum to give introductory talks on robotics topics
 * your way into robotics if you just heard it's the next big thing.
 
-
+{% for post in site.posts %}
+  <article>
+    <h2>
+      <a href="{{ post.url }}">
+        {{ post.title }}
+      </a>
+    </h2>
+    <time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date_to_long_string }}</time>
+    {{ post.content }}
+  </article>
+{% endfor %}
