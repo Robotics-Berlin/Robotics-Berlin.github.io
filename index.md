@@ -1,3 +1,12 @@
 # Robotics Berlin Meetup
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2328.797447187437!2d13.407296424896861!3d52.520807417803866!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a84e1f9014ffeb%3A0xc8fafc484349e4a1!2sBerliner+Fernsehturm!5e0!3m2!1sde!2sde!4v1547202757752" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+The Berlin Robotics Meetup is an informal meeting of robotics professionals and enthusiast in Berlin. We plan to hold it semi-regularly, roughly every two month at different locations announced here. We refrain from having formal talks, to lower the burden of preparation on the participants. It is more like a Stammtisch than a traditional meetup. We want to chat about the latest findings in your field of expertise, your problems of implementing that crazy IROS paper, or simply making fun on how every robot keeps on breaking every other day.
+New (groups of) people are encouraged to introduce themselves and what they work on related to robotics with a short talk not longer than 5 minutes. You're not allowed to bring presentations, but you can either draw on a white board/flip chart or *bring your robot*.
+
+What this is not:
+
+* a recruiting event of any of the participating companies
+* a forum to give introductory talks on robotics topics
+* your way into robotics if you just heard it's the next big thing.
+
+
