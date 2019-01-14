@@ -9,6 +9,8 @@ What this is not:
 * a forum to give introductory talks on robotics topics
 * your way into robotics if you just heard it's the next big thing.
 
+Discussions regarding the meetup will be on a good old <a href="https://groups.google.com/group/robotics-berlin">email group</a>.
+
 ---
 ## News
 {% for post in site.posts %}
