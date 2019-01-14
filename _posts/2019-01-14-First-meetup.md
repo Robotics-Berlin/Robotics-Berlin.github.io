@@ -4,7 +4,7 @@ title: The first Berlin robotics meetup hosted at Amazon
 user: Johannes
 ---
 
-The first meetup will take place at the 29th January 2019, 7 p.pm . Since
+The first meetup will take place at the 29th January 2019, 7 pm . Since
 everybody will be new please prepare a (max!) 5 min introduction of yourself (or
 your group).  We encourage everybody to bring robots (as long as they fit in a
 normal meeting room).
