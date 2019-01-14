@@ -17,7 +17,7 @@ What this is not:
         {{ post.title }}
     </h3>
     <p>
-    <time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date_to_long_string }}</time> &middot; by {{ post.user }}
+    posted at <time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date_to_long_string }}</time> &middot; by {{ post.user }}
     </p>
     {{ post.content }}
   </article>
