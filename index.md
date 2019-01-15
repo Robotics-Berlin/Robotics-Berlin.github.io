@@ -1,6 +1,6 @@
 # Robotics Berlin Meetup
 
-*Next meetup:* <a href="#news-0">29th Jan 2019, at the Amazon office</a>
+*Next meetup:* <a href="#news-1">29th Jan 2019, at the Amazon office</a>
 
 The Berlin Robotics Meetup is an informal meeting of robotics professionals and enthusiast from academia and industry in Berlin. As Berlin is becoming a hub for AI and robotics, this event enables us to build a community of robotics in Berlin to network and share insights. 
 
