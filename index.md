@@ -24,7 +24,7 @@ Discussions regarding the meetup will be on a good old <a href="https://groups.g
        {{ post.title }}
     </h3>
     <p>
-    posted at <time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date_to_long_string }}</time> &middot; by {{ post.user }}
+    <small>posted at <time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date_to_long_string }}</time> &middot; by {{ post.user }}</small>
     </p>
     {{ post.content }}
   </article>
