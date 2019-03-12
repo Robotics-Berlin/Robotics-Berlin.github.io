@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+article {
+  margin-top: 10px;
+  margin-bottom: 60px;  
+}
 .page-header {
   background-image: url("/assets/images/header.jpg");
   background-position: center;
