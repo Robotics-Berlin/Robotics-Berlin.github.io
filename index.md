@@ -1,20 +1,13 @@
-# Robotics Berlin Meetup
+# Berlin Robotics Meetup
 
-*Next meetup:* <a href="#news-1">25th Mar 2019, 7 pm, at the PTScientists office</a>
+*Next meetup:* <a href="#news-1">30th March 2023, 6:30 pm, at the Micropsi Industries office</a>
 
-The Berlin Robotics Meetup is an informal meeting of robotics professionals and enthusiast from academia and industry in Berlin. As Berlin is becoming a hub for AI and robotics, this event enables us to build a community of robotics in Berlin to network and share insights. 
+The Berlin Robotics Meetup is an informal meeting of robotics professionals and enthusiasts from academia and industry in Berlin. This event enables us to build a robotics community in Berlin to network and share insights.
 
-We plan to hold it semi-regularly, roughly every two month at different locations announced here. We refrain from having formal talks, to lower the burden of preparation on the participants. It is more like a _Stammtisch_ than a traditional meetup. We want to chat about the latest findings in your field of expertise, your problems of implementing that crazy IROS paper, or simply making fun on how every robot keeps on breaking every other day.
+We plan to hold it regularly, roughly every two months, at different locations announced here, on meetup.com and LinkedIn.
 
-New (groups of) people are encouraged to introduce themselves and what they work on related to robotics with a short talk not longer than 5 minutes. You're not allowed to bring presentations, but you can either draw on a white board/flip chart or *bring your robot*.
-
-What this is not:
-
-* a recruiting event of any of the participating companies
-* a forum to give introductory talks on robotics topics
-* your way into robotics if you just heard it's the next big thing.
-
-Discussions regarding the meetup will be on a good old <a href="https://groups.google.com/group/robotics-berlin">email group</a>.
+What do we want to do here?
+We want to chat about the findings in your field of expertise, your problems with implementing that crazy IROS paper, make fun of how every robot keeps breaking every other day, sharing the best practices and pitfalls of a robotic business.
 
 ---
 ## News
